@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 66.9597,
+        "lat": 39.6542
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 295.83,
+        "feels_like": 294.88,
+        "temp_min": 295.83,
+        "temp_max": 295.83,
+        "pressure": 1022,
+        "humidity": 28
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.14,
+        "deg": 80
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1695377922,
+    "sys": {
+        "type": 1,
+        "id": 9013,
+        "country": "UZ",
+        "sunrise": 1695345548,
+        "sunset": 1695389469
+    },
+    "timezone": 18000,
+    "id": 1216265,
+    "name": "Samarkand",
+    "cod": 200
+}
